@@ -1,5 +1,6 @@
 -- Create the database
 CREATE DATABASE IF NOT EXISTS SalesDB;
+
 USE SalesDB;
 
 -- Create the Product table
