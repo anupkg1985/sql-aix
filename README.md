@@ -1,5 +1,6 @@
 # SQL-AIX
 SQL-AIX is an AI assistant to help solve analytical questions by building SQL queries against the target database and execute.
+Build SQL AI assistant using the power of `LLM` and `tools`.
 
 ### Database Setup 
 Setup a MySQL database using db_setup.sql file in sql_setup folder. It should create three tables as below -
